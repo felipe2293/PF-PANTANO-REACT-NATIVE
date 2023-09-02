@@ -26,7 +26,7 @@ git clone https://github.com/felipe2293/PF-PANTANO-REACT-NATIVE.git
 2. Instalar las dependencias del proyecto:
 
 ```shell
-cd workshop-compra-equipos-industriales
+cd PF-PANTANO-REACT-NATIVE
 npm install
 ```
 3. Inicia la aplicación:
